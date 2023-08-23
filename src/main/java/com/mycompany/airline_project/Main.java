@@ -159,8 +159,7 @@ public class Main extends javax.swing.JFrame {
     }//GEN-LAST:event_jMenuItem6ActionPerformed
 
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
-        // TODO add your handling code here:
-        
+        // TODO add your handling code here  
         SearchCustomer search = new SearchCustomer();
         Desktop.add(search);
         search.setVisible(true);

@@ -624,8 +624,7 @@ public class BookTicket extends javax.swing.JInternalFrame {
                 DFT.addRow(v);
                 
             }
-            
-//            JOptionPane.showMessageDialog(null,"Admin Added Successfully");
+           
             
            
             
